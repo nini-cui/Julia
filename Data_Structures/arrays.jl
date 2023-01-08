@@ -29,7 +29,7 @@ push!(arr, "α")
 
 arr2 = ["Δ", "θ"]
 
-append!(arr, arr2)\
+append!(arr, arr2)
 
 deleteat!(arr, 3)
 deleteat!(arr, [1, 3, 4])

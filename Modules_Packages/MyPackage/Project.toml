@@ -1,0 +1,4 @@
+name = "MyPackage"
+uuid = "48daabe0-0136-4ee6-a95d-cc86259e3bdd"
+authors = ["nini <ncui@deloitte.com.au>"]
+version = "0.1.0"
